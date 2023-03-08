@@ -1,0 +1,14 @@
+h1{
+    color: rgb(215, 92, 74);
+    font-size: 40;
+    font-style: italic ;
+
+}
+h2{
+    color: blueviolet;
+    font-size: 60;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+style{
+    background-color: orange;
+}
